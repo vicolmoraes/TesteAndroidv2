@@ -1,6 +1,12 @@
 <application>
+  <component name="GithubAccounts">
+    <account id="7f3d33ff-c520-44d5-893d-7239de9e264f" name="vicolmoraes">
+      <server host="github.com" />
+    </account>
+  </component>
   <component name="GithubSettings">
     <option name="LOGIN" value="vicolmoraes" />
     <option name="AUTH_TYPE" value="BASIC" />
+    <option name="CLONE_GIT_USING_SSH" value="true" />
   </component>
 </application>
